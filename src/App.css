@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.d-f{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  padding: 3px 10px;
+  margin: 20px;
+  cursor: pointer;
+}
